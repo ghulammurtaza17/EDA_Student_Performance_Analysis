@@ -99,5 +99,5 @@ The dashboard is designed to be a clean, one-page view including:
 
 ## Links
 
-- GitHub Repo: 
+- GitHub Repo: https://github.com/ghulammurtaza17/EDA_Student_Performance_Analysis.git
 - LinkedIn: https://www.linkedin.com/in/ghulam-murtaza-b24280331?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
